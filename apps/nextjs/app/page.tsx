@@ -1,6 +1,5 @@
 "use client";
 
-
 import { Button } from "@repo/ui/button";
 import { useState } from "react";
 
@@ -14,9 +13,7 @@ export default function Home() {
         This shadcn/ui button is shared between Next.js, Vite and any other
         application.
       </p>
-      <Button onClick={() => setCount((count) => count + 1)}>
-        Count is {count}
-      </Button>
+      <Button>dddssssssssssss</Button>
     </main>
   );
 }
